@@ -9,8 +9,6 @@ import com.opensymphony.xwork2.ActionSupport;
  * 商品操作-控制层
  *
  */
-@Controller
-@Scope("prototype")
 public class ProductAction extends ActionSupport
 {
 
